@@ -10,9 +10,8 @@ title: 关于我
 
 ### 
 
-Email:
+__Email:__  
 
-{{% highlight bash %}}
- echo 'KFSV.KFS@LRFNQ.HTR' | tr F-V a-q
-{{% endhighlight %}}
+	echo 'KFSV.KFS@LRFNQ.HTR' | tr F-V a-q
 	
+
