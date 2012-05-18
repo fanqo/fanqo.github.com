@@ -18,6 +18,7 @@ tags: [Jekyll]
 _创建Post文章_
 
 	rake post title="文章标题"
+	
 会自动创建一个具有合适文件名和YAML Front Matter的文件(使用时将"文章标题"替换成你要创建的文章的标题)。
 
 _创建Page页面_
@@ -56,3 +57,4 @@ Jekyll Bootstrap在根目录下还有一文件夹`assets`，这里可以用来�
 
 [jekyll wiki]: https://github.com/mojombo/jekyll/wiki/
 [liquid]: http://liquidmarkup.org/
+
