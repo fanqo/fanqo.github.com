@@ -53,7 +53,7 @@ Jekyll的安装及配置请查看 [Jekyll wiki][jekyll wiki]。
 	变量或用户自己的数据
 	---
 	
-Jekyll Bootstrap在根目录下还有一文件夹`assets`，这里可以用来放一些图片、CSS文件或Javascript文件，这些文件不应包含YAML Front Matter，以免被Jekyll处理成页面。在自己post或page中引用该文件夹下的内容时可用\{\{`ASSET_PATH`\}\}代替该目录。
+Jekyll Bootstrap在根目录下还有一文件夹`assets`，这里可以用来放一些图片、CSS文件或Javascript文件，这些文件不应包含YAML Front Matter，以免被Jekyll处理成页面。在自己post或page中引用该文件夹下的内容时可用`{{"{% ASSET_PATH "}} %}`代替该目录。
 
 [jekyll wiki]: https://github.com/mojombo/jekyll/wiki/
 [liquid]: http://liquidmarkup.org/

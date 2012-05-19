@@ -12,6 +12,5 @@ title: 关于我
 
 __Email:__  
 
-	echo 'KFSV|KFS_LRFNQ|HTR' | tr 'F-V_|' 'a-q@.'
-	
-
+	$ echo 'KFSV|KFS_LRFNQ|HTR' | tr 'F-V_|' 'a-q@.'
+{: .prettyprint}
