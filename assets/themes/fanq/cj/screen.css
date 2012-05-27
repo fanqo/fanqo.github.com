@@ -105,10 +105,10 @@ sup { line-height: 1ex; }
 	float: left;
 }
 
-.emphnext + p:first-line, p.emphfirst:first-line {
-	font-variant: small-caps;
-	font-size: larger;
-}
+/* .emphnext + p:first-line, p.emphfirst:first-line { */
+/* 	font-variant: small-caps; */
+/* 	font-size: larger; */
+/* } */
 /* @end */
 
 .right { float: right; clear: left; }
@@ -547,3 +547,6 @@ img.maruku-png { }
 	color:#FFF;
 }
 
+
+/* remove underline in <ins> tag */
+ins {text-decoration: none;}
