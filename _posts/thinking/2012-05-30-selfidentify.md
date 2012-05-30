@@ -3,7 +3,7 @@ layout: post
 title: "由自我鉴定谈起"
 description: ""
 category: 杂谈
-tags: [自我鉴定,语言教育]
+tags: [自我鉴定 语言教育]
 ---
 {% include JB/setup %}
 
