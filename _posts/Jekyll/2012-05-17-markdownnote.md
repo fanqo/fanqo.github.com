@@ -15,7 +15,7 @@ tags: [MarkDown]
 [mb]: http://daringfireball.net/projects/markdown/basics "MarkDown Base"
 [ms]: http://daringfireball.net/projects/markdown/syntax "MarkDown Syntax"
 
-_[段、标题、块](#phb)_		_[强调](#em)_		_[列表](#list)_		_[链接](#link)_		_[图象](#img)_		_[代码](#code)_		_[其它](#other)_
+_[段、标题、块引用](#phb)_		_[强调](#em)_		_[列表](#list)_		_[链接](#link)_		_[图象](#img)_		_[代码](#code)_		_[其它](#other)_
 
 
 ### 段、标题、块引用 ### 
