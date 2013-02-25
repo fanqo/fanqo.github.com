@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll相关"
 description: "与Jekyll相关的一些笔记"
-category: [Jekyll]
+category: Jekyll
 tags: [Jekyll]
 ---
 {% include JB/setup %}

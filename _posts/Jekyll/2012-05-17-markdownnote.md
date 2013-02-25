@@ -2,7 +2,7 @@
 layout: post
 title: "MarkDown一些笔记"
 description: "关于MarkDown的一些笔记"
-category: [Jekyll]
+category: Jekyll
 tags: [MarkDown]
 ---
 {% include JB/setup %}
