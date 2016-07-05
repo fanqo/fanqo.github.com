@@ -2,7 +2,7 @@
 layout: post
 title: "OpenFOAM301 isnan error"
 description: ""
-category: 
+category: OpenFOAM
 tags: [OpenFOAM]
 ---
 {% include JB/setup %}

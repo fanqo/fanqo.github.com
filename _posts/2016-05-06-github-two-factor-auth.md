@@ -2,7 +2,7 @@
 layout: post
 title: "开启两步验证后Github通过HTTPS提交出现授权问题"
 description: ""
-category: 
+category: Jekyll
 tags: [Github, two-factor auth, ssh, https]
 ---
 {% include JB/setup %}

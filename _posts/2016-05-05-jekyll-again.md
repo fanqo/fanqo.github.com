@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll Again, 吼吼吼，我又回来啦"
 description: ""
-category: 
+category: Jekyll
 tags: [Jekyll, Cygwin, OpenFOAM]
 ---
 {% include JB/setup %}
